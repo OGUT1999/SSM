@@ -1,0 +1,6 @@
+{
+  "name": "Solusi Sistem UMKM (SSM)",
+  "description": "Aplikasi manajemen usaha offline-first untuk petani, peternak, perikanan, dan UMKM lokal dengan asisten suara AI, kalkulator BEP, dan pantauan harga pasar.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
